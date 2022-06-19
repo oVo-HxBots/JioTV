@@ -94,7 +94,7 @@ filter: blur(4px);
 <span class="loading-text-words">D</span>
 <span class="loading-text-words">O</span>
 <span class="loading-text-words">O</span>
-<span class="loading-text-words">O</span
+<span class="loading-text-words">O</span>
 </div>
 </div>
 <video autoplay controls crossorigin poster="https://jiotv.catchup.cdn.jio.com/dare_images/images/<?php echo $_REQUEST["c"] ?>.png" playsinline>
