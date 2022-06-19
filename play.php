@@ -84,13 +84,17 @@ filter: blur(4px);
 <body>
 <div id="loading" class="loading">
 <div class="loading-text">
-<span class="loading-text-words">L</span>
-<span class="loading-text-words">O</span>
-<span class="loading-text-words">A</span>
+<span class="loading-text-words">H</span>
+<span class="loading-text-words">x</span>
+<span class="loading-text-words">B</span>
+<span class="loading-text-words">o</span>
+<span class="loading-text-words">t</span>
+<span class="loading-text-words">s</span>
+<span class="loading-text-words">X</span>
 <span class="loading-text-words">D</span>
-<span class="loading-text-words">I</span>
-<span class="loading-text-words">N</span>
-<span class="loading-text-words">G</span>
+<span class="loading-text-words">o</span>
+<span class="loading-text-words">o</span>
+<span class="loading-text-words">o</span
 </div>
 </div>
 <video autoplay controls crossorigin poster="https://jiotv.catchup.cdn.jio.com/dare_images/images/<?php echo $_REQUEST["c"] ?>.png" playsinline>
