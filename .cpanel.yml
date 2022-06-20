@@ -1,4 +1,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=home/rehostte/repositories/JioTv
-    - / -R JioTv $DEPLOYPATH
+    - /JioTv -R JioTv $DEPLOYPATH
