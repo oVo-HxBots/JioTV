@@ -1,5 +1,4 @@
----
 deployment:
   tasks:
-    - export DEPLOYPATH=home/rehostte/kirodewal.in.eu.org//
-    - /index.php $DEPLOYPATH
+    - export DEPLOYPATH=home/rehostte/repositories/JioTv
+    - / -R JioTv $DEPLOYPATH
