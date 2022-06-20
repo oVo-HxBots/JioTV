@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=home/rehostte/kirodewal.in.eu.org//
+    - /bin/cp -R images $DEPLOYPATH
