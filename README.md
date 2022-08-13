@@ -47,7 +47,7 @@ https://apkcow.com/ksweb-server-php-mysql-mod-apk/download/
   ```
 
 • Then Download This Zip Files<br>
- - JioTV Zip <br> ( https://github.com/mitthu786/TS-JioTV/blob/main/jiotvweb.zip?raw=true ) <br>
+ - JioTV Zip <br> ( https://github.com/ovo-oVo-HxBots/JioTV/blob/main/jiotvweb.zip?raw=true ) <br>
 
 • Locate & Extract all Files in LocalHost (Htdocs) Root Folder <br>
 • Put Your E-Mail or Mobile Number without +91 & Password in below Link <br>
@@ -140,14 +140,13 @@ http://localhost:8080/jiotvweb/localplaylists/jio1080p.m3u
 
 <h3>🤗 Meet Me : </h3>
 
-• For any Support Join Our Group [Techie Sneh](https://t.me/techiesneh)<br>
-• Or Contact at [techiesneh@protonmail.com](mailto:techiesneh@protonmail.com)
+• For any Support Join Our [@HxBots]
 
 <br>
 
 
 ---
-<h4 align='center'>© 2021-22 Techie Sneh</h4>
+<h4 align='center'>© 2021-22 @HxBots</h4>
 
 <!-- DO NOT REMOVE THIS CREDIT -->
 
