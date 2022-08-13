@@ -1,7 +1,7 @@
 
 <p align="center"><img src="https://images.firstpost.com/wp-content/uploads/2020/07/jio-tvplus-1280.jpg" width="180" height="100"></p>
 
-<h1 align='center'>✯ JɪᴏTV Pʟᴀʏ 2.2 ✯</h1>
+<h1 align='center'>✯ JɪᴏTV Pʟᴀʏ 3.1 ✯</h1>
 
 <!-- DO NOT EDIT FILE AND ADD YOU NAME HERE AND PUBLISH -->
 <!-- © 2021-22 TechieSneh -->
