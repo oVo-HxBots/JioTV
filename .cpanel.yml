@@ -1,4 +1,0 @@
-deployment:
-  tasks:
-    - export DEPLOYPATH=home/rehostte/repositories/JioTv/
-    - /bin/cp -R JioTv $DEPLOYPATH
