@@ -75,12 +75,12 @@ https://s3.dlandroid.com/apps/KSWEB-server[dlandroid.com].apk
 4. Put Your E-Mail or Mobile Number without +91 & Password in below Link <br>
 
 ```py
-http://localhost:8080/tsjiotv/login.php
+http://localhost:8080/login.php
 ```
 7. Now Open [JIOTV WEB] Below Link :
 
 ```py
-http://localhost:8080/tsjiotv/
+http://localhost:8080/
 ```
 
 8. Click above link in any Browser . You Will See all Jio Channels . <br>
@@ -88,72 +88,43 @@ http://localhost:8080/tsjiotv/
 
 #### ♢ Method 2 :
 
-• In Player Put Links Format Like Below
-
-  ```py
-http://localhost:8080/tsjiotv/live.php?c=Channel_Name&q=Quality
-  ```
-
+• Method 2 see here :
 ```py
-http://localhost:8080/tsjiotv/live.php?c=And_Pictures_HD&q=800
+https://hxbots.eu.org/create-live-tv-website-with-jiotv
 ```
 
-• Depending on Your Server Change Links
-• This Script is free for USE and Modify</b><br>
-
-#### ♢ Method 3 :
-
-• In Tivimate or OTT Navigator Player Put Links Format Like Below :<br>
-
-  ```py
-http://localhost:8080/tsjiotv/playlist.php
-  ```
-
-• For Local Playlist :<br>
-
-  ```py
-http://localhost:8080/tsjiotv/localplaylist.m3u
-  ```
-
-• <b>FOR DIFFERENT QUALITY USE BELOW LINKS : </b><br>
-
-  ```py
-http://localhost:8080/tsjiotv/localplaylists/jio240p.m3u
-  ```
-• Now Change Above URL Like : jio240p to jio400p , jio600p ,etc. for Quality Change.</b>
-• Hurrah !! Now Play & Enjoy with your Jio Channels .</b><br>
 
 <!-- DO NOT EDIT FILE AND ADD YOU NAME HERE AND PUBLISH -->
-<!-- © 2021-22 TechieSneh -->
+<!-- © 2021-22 oVo-HxBots -->
 
 
 <h2>📸 NEW THEMES SCREENSHOTS : </h2>
 
-##### ♢♢ JIOTV ARCADE SHOTS [CLICK HERE](https://github.com/oVo-HxBots/JioTV/tree/main/themes/jiotv-arcade)
+##### ♢♢ JIOTV ARCADE SHOTS [CLICK HERE](https://github.com/oVo-HxBots/JioTV/tree/main/screenshots/jiotv-arcade)
 
 <img src="screenshots/jiotv-arcade/arcade.png" width="400" height="200">
 
 <br><br>
 
-##### ♢♢ JIOTV CLASSIC SHOTS [CLICK HERE](https://github.com/oVo-HxBots/JioTV/tree/main/themes/jiotv-classic)
+##### ♢♢ JIOTV CLASSIC SHOTS [CLICK HERE](https://github.com/oVo-HxBots/JioTV/tree/main/screenshots/jiotv-classic)
 
 <img src="screenshots/jiotv-classic/classic.png" width="400" height="200">
 
 <br><br>
 
-##### ♢♢ JIOTV LIGHTMODE SHOTS [CLICK HERE](https://github.com/ovo-oVo-HxBots /JioTV/tree/main/themes/jiotv-lightmode)
+##### ♢♢ JIOTV LIGHTMODE SHOTS [CLICK HERE](https://github.com/ovo-oVo-HxBots /JioTV/tree/main/screenshots/jiotv-lightmode)
 
 <img src="screenshots/jiotv-lightmode/light.png" width="400" height="200">
 
 <br><br>
 
-##### ♢♢ JIOTV DARKMODE SHOTS [CLICK HERE](https://github.com/oVo-HxBots/JioTV/tree/main/themes/jiotv-darkmode)
+##### ♢♢ JIOTV DARKMODE SHOTS [CLICK HERE](https://github.com/oVo-HxBots/JioTV/tree/main/screenshots/jiotv-darkmode)
 
 <img src="screenshots/jiotv-darkmode/dark.png" width="400" height="200">
 
 <br><br>
 
-##### ♢♢ JIOTV PREMIUM SHOTS [CLICK HERE](https://github.com/oVo-HxBots/JioTV/tree/main/themes/jiotv-premium)
+##### ♢♢ JIOTV PREMIUM SHOTS [CLICK HERE](https://github.com/oVo-HxBots/JioTV/tree/main/screenshots/jiotv-premium)
 
 <img src="screenshots/jiotv-premium/premium.png" width="400" height="200">
 
